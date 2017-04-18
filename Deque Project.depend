@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1425911368 source:c:\c programos\deque project\deque.c
+	"deque.h"
+
+1425911449 c:\c programos\deque project\deque.h
+	"User_Data_Type_Deque.h"
+	<stdlib.h>
+	<stdio.h>
+
+1425911368 source:c:\c programos\deque project\main.c
+	"deque.h"
+
+1425762755 c:\c programos\deque project\user interface.h
+
+1425762755 c:\c programos\deque project\user data type.h
+
+1425911033 c:\c programos\deque project\user data type deque.h
+
+1425911033 c:\c programos\deque project\user_data_type_deque.h
+
